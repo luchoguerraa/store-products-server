@@ -1,5 +1,5 @@
-com/store/products1/integrationTest/controllers/ProductsControllerIntegrationTest.java
- com.store.products1.integrationTest.controllers.ProductsControllerIntegrationTest
+com/store/products1/domian/UseCaseProductsTest.java
+ com.store.products1.domian.UseCaseProductsTest
 com/store/products1/tools/FileResource.java
  com.store.products1.tools.FileResource
 com/store/products1/tools/MockProducts.java
@@ -14,5 +14,5 @@ com/store/products1/data/UseCaseProductsRepositoryImplTest.java
  com.store.products1.data.UseCaseProductsRepositoryImplTest
 com/store/products1/integrationTest/mocks/UseCaseProductsRepositoryMock.java
  com.store.products1.integrationTest.mocks.UseCaseProductsRepositoryMock
-com/store/products1/domian/UseCaseProductsTest.java
- com.store.products1.domian.UseCaseProductsTest
+com/store/products1/integrationTest/controllers/ProductsControllerIntegrationTest.java
+ com.store.products1.integrationTest.controllers.ProductsControllerIntegrationTest
